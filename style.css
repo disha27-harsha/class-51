@@ -1,0 +1,32 @@
+h1 {
+  color: #3ED6C9 ;
+}
+
+p {
+  color:#D63E6E ;
+}
+
+.header {
+  background-color: #FA8072;
+  display: flex;
+  justify-content: space-between;
+}
+
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-end;
+}
+
+p,h2 {
+  text-align: center;
+}
+
+body{
+  background-color:#808080 ;
+}
